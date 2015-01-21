@@ -2,6 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>CumulusCi-Industries</fullName>
     <types>
+        <members>HelloWorldAddedInFeat</members>
         <members>HelloWorld</members>
         <members>HelloWorldTest</members>
         <name>ApexClass</name>
